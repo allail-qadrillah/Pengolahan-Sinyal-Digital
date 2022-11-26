@@ -3,7 +3,12 @@
 Diajukan untuk melengkapi sebagian tugas dari matakuliah
 Pengolahan Sinyal Digital (PSD)
 
-### Latar Belakang
+## Overview 📃
+[1. Latar Belakang](https://github.com/allail-qadrillah/Pengolahan-Sinyal-Digital#latar-belakang)
+[2. Hasil](https://github.com/allail-qadrillah/Pengolahan-Sinyal-Digital#hasil-)
+[3. Kesimpulan](https://github.com/allail-qadrillah/Pengolahan-Sinyal-Digital#kesimpulan-)
+
+### Latar Belakang 
 Penelitian ini memanfaatkan **Filter Fast Fourier Transform (FFT)** dimana prosesnya banyak sekali
 digunakan seperti pada signal 5G, Radar hingga proses Repository ini sampai kepada anda. Penggunaan metode
 filter FFT ini banyak digunakan untuk menghilangkan noise dari sinyal.
