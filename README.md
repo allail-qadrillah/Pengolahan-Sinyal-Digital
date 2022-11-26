@@ -1,7 +1,6 @@
-
 # Project Akhir Mata Kuliah Pengolahan Sinyal Digital
 Diajukan untuk melengkapi sebagian tugas dari matakuliah
-Pengolahan Sinyal Digital (PSD)
+**Pengolahan Sinyal Digital (PSD)**
 
 ## Overview 📃
 - [1. Latar Belakang](https://github.com/allail-qadrillah/Pengolahan-Sinyal-Digital#latar-belakang)
@@ -20,7 +19,6 @@ koefisien dari Discrete ke suatu Finite sekuen dari data kompleks. Tujuannya
 untuk menghasilkan hasil klasifikasi sinyal EEG dengan menerapkan filter FFT
 pada dataset dengan konteks penderita autis dan normal.
 
-
 ### Hasil 🙌
 1️⃣ Sinyal EEG Mentah Anak Normal
 ![EEG NORMAL MENTAH](https://user-images.githubusercontent.com/89723505/204079198-5c1521a3-e851-46bd-980f-48bda25dcd3b.png)
@@ -32,4 +30,4 @@ pada dataset dengan konteks penderita autis dan normal.
 ![EEG AUTIS FILTER](https://user-images.githubusercontent.com/89723505/204079090-17dd16cb-dbdd-407e-a984-785057401319.png)
 
 ### Kesimpulan ✨
-s filterisasi menggunakan metode Fast Fourier Transform (FFT) terbukti sangat efektif untuk menghilangkan artefak pada sinyal inputnya sehingga lebih terlihat nyata tanpa adanya noise yang telah ditekan. Saat sinyal EEG pada penderita autis bergabung dengan noise diperoleh rentang amplitudo dan peak to peak nya dari 1000 sampai -1000. Dan saat sesudah difilter menggunakan metode FFT rentang amplitude dan peak to peaknya turun menjadi 80 sampai -60.
+Filterisasi menggunakan metode **Fast Fourier Transform (FFT)** terbukti sangat efektif untuk menghilangkan artefak pada sinyal inputnya sehingga lebih terlihat nyata tanpa adanya noise yang telah ditekan. Saat sinyal EEG pada penderita autis bergabung dengan noise diperoleh rentang amplitudo dan peak to peak nya dari 1000 sampai -1000. Dan saat sesudah difilter menggunakan metode FFT rentang amplitude dan peak to peaknya turun menjadi 80 sampai -60.
